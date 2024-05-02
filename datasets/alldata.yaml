@@ -1,0 +1,7 @@
+train: ../datasets/images/train
+val: ../datasets/images/val
+test: ../datasets/images/test
+
+names:
+  0: fire
+  1: smoke
